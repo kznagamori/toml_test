@@ -1,0 +1,13 @@
+title = "TOML Example"
+
+[[items]]
+id = "123"
+name = "Item 1"
+
+[[items]]
+id = "456"
+name = "Item 2"
+
+[[items]]
+id = "789"
+name = "Item 3"
